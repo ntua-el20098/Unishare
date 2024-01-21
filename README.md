@@ -1,6 +1,6 @@
 # UniShare
 
-A  Flutter project  for HCI class in NTUA 2023-2024 
+A  Flutter project  for HCI class in NTUA 2023-2024   
 
 ## Getting Started
 
