@@ -52,3 +52,4 @@ app.*.map.json
 # google api key and other personal info
 /android/app/google-services.json
 .flutter-plugins
+.flutter-plugins-dependencies
